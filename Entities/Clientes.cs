@@ -10,5 +10,7 @@
 
         public string Cliente_Contrasena { get; set; }
 
+        public bool Cliente_Estado => true;
+
     }
 }
