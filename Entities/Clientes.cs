@@ -1,6 +1,6 @@
 ﻿namespace webApi.Entities
 {
-    public class Cliente
+    public class Clientes
     {
         [System.ComponentModel.DataAnnotations.Key]
         public string Persona_Nombre { get; set; }

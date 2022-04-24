@@ -1,6 +1,7 @@
 ﻿namespace webApi.Controllers
 {
-    public class ClienteController
+    public class ClienteController 
     {
+        
     }
 }
